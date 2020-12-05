@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "csvjson": "^5.1.0",
+    "json2csv": "^5.0.5",
+    "kraken-api": "^1.0.1"
+  }
+}

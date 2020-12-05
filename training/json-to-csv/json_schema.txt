@@ -1,0 +1,16 @@
+JSON OBJECT // SERVER RESPONSE
+{ PAIR: [[v1,v2,v3,v4],[v1,v2,v3,v4],[v1,v2,v3,v4],[v1,v2,v3,v4],[v1,v2,v3,v4],[v1,v2,v3,v4],[v1,v2,v3,v4],...,[]], LAST: vDateSeconds?}
+
+
+CSV FILE name: PAIR_DATE
+c1,c2,c3,c4
+v1,v2,v3,v4
+v1,v2,v3,v4
+v1,v2,v3,v4
+v1,v2,v3,v4
+v1,v2,v3,v4
+v1,v2,v3,v4
+...
+...
+...
+v1,v2,v3,v4
