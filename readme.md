@@ -1,7 +1,8 @@
 # Exploring kraken nodejs api
 
-## Trades Endpoint : 
-### from Kraken Api documentation
+## Endpoints (from Kraken Api documentation): 
+
+### Trades
 Input:
 - pair = asset pair to get trade data for
 - since = return trade data since given id (optional.  exclusive)
